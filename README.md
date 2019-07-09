@@ -1,2 +1,2 @@
 # SmartCard
-Some software I wrote while at 90Meter.
+Some software I wrote for smartcard applications.
